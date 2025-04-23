@@ -47,9 +47,8 @@ I'm a **Junior Mobile Developer** from Argentina 🇦🇷, currently focused on 
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/alanastor/) *(agregalo si aún no lo tenés)*
-- Email: **tuemail@ejemplo.com**
-- Portfolio: (opcional – podés usar Notion o GitHub Pages)
+- [LinkedIn](https://www.linkedin.com/in/astor-ludue%C3%B1a-44b2881a9/) 
+- Email: **aastorl79@gmail.com**
 
 ---
 
