@@ -58,4 +58,15 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 ---
 
+🎶 Music Side
+
+Besides coding, I'm also a music indie artist.  
+I compose, record, and publish my own songs — you can find me on Spotify!  
+
+🎧 [Check out my music on Spotify]
+([Ipanema Cinema](https://open.spotify.com/artist/4q6TIDTN5BU6ZiTG20SaeJ?si=A3oW3QGISgqzHCWKJ9Dnfw))
+([Safari Michi](https://open.spotify.com/artist/5AhcroJYJaw0n07VZPgKgK?si=KkAN2KZgQP6TLT1w13N0_A))
+([La Maldicion del Bonsai](https://open.spotify.com/artist/0H5tS9tlrzjDcFV2WAi0AM?si=tpHmspbXTZeWV60ahvFgaA))
+
+
 Thanks for stopping by! 🙌
