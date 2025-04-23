@@ -38,7 +38,7 @@ I'm a **Junior Mobile Developer** from Argentina 🇦🇷, currently focused on 
 | [HeroIQ](https://github.com/aastorl/HeroIQ) | A superhero info browser using [superheroapi.com](https://superheroapi.com/). Built with a clean UI and MVVM architecture. | SwiftUI, Charts, Combine |
 | [PlaceIT](https://github.com/aastorl/PlaceIT) | Save your favorite places on a map with MapKit and plan visits. | SwiftUI, MapKit |
 | [FormaViva](https://github.com/aastorl/FormaViva) | BMI calculator with modern SwiftUI design and full dark/light mode support. | SwiftUI |
-| [SoundMatch](https://github.com/aastorl/SoundMatch) | Currently incomplete | Kotlin, Jetpack Compose |
+| [SoundMatch](https://github.com/aastorl/SoundMatch) | An Spotify clone app. Built with Compose, Spotify API, and modern Android architecture. Playback is limited by API restrictions, but showcases creative problem-solving and deep technical exploration. | Kotlin, Jetpack Compose |
 
 ---
 
