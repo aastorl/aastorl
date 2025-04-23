@@ -4,7 +4,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white&style=flat-square)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?logo=apple&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
 
 I'm a **Junior Mobile Developer** from Argentina 🇦🇷, currently focused on building clean, modern, and user-friendly apps for both **iOS** and **Android** platforms.
