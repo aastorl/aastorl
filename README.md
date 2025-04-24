@@ -60,7 +60,7 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 🎶 Music Side
 
-Besides coding, I'm also a music indie artist.  
+Besides coding, I'm also an indie musician  
 I compose, record, and publish my own songs — you can find me on Spotify!  
 
 🎧 [Check out my music on Spotify]
