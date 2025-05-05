@@ -8,8 +8,6 @@
 
 I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on building clean, modern, and user-friendly apps for both **iOS** and **Android** platforms.
 
-🎯 I'm moving to **Spain in December 2025** and actively looking for my first job in mobile development. I hold **Italian citizenship** 🇮🇹 and I'm fully authorized to work across the EU.
-
 ---
 
 ## 🧑‍💻 What I Do
@@ -44,8 +42,6 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 ## 🎯 Career Goals
 
-- 📲 Publish my first iOS app (HeroIQ) on the App Store by mid-2025
-- 🇪🇸 Start my career as a mobile developer in Spain by the beginning of 2026
 - 💼 Work on real-world apps, learn from experienced teams, and grow fast
 - 🌍 Collaborate with developers from all over the world
 
