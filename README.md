@@ -21,7 +21,7 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 ## 🛠️ Tech Stack
 
-**Languages**: Swift, Kotlin, Java  
+**Languages**: Swift, Kotlin  
 **Mobile Frameworks**: SwiftUI, UIKit, Jetpack Compose 
 **Architecture**: MVVM, Clean Architecture for both platforms
 **Other Tools**: Xcode, Android Studio, Git, GitHub  
