@@ -37,7 +37,7 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 | [HeroIQ](...) | Superhero info browser with clean MVVM UI                | SwiftUI, iOS |
 | [PlaceIT](...) | Save favorite places and plan visits                     | SwiftUI, iOS |
 | [FormaViva](...) | BMI calculator with modern SwiftUI UI                   | SwiftUI, iOS |
-| [SoundMatch](...) | Spotify clone exploring audio features                 | Kotlin, Android |
+| [SoundMatch](...) | Spotify clone                 | Kotlin, Android |
 
 
 ---
