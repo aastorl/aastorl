@@ -31,19 +31,21 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 ## 🚀 Projects
 
-| Name        | Description                                                                 | Tech |
-|-------------|-----------------------------------------------------------------------------|------|
-| [HeroIQ](https://github.com/aastorl/HeroIQ) | A superhero info browser using [superheroapi.com](https://superheroapi.com/). Built with a clean UI and MVVM architecture. | SwiftUI, Charts, Combine |
-| [PlaceIT](https://github.com/aastorl/PlaceIT) | Save your favorite places on a map with MapKit and plan visits. | SwiftUI, MapKit |
-| [FormaViva](https://github.com/aastorl/FormaViva) | BMI calculator with modern SwiftUI design and full dark/light mode support. | SwiftUI |
-| [SoundMatch](https://github.com/aastorl/SoundMatch) | An Spotify clone app. Built with Compose, Spotify API, and modern Android architecture. Playback is limited by API restrictions, but showcases creative problem-solving and deep technical exploration. | Kotlin, Jetpack Compose |
+| Name        | Description                                                | Tech & Platform |
+|-------------|------------------------------------------------------------|----------------|
+| [MosquitOFF](https://apps.apple.com/ar/app/mosquitoff/id6751351628) | App published on the App Store that calculates real-time mosquito risk in Rosario, Argentina. | Swift, SwiftUI, iOS |
+| [HeroIQ](...) | Superhero info browser with clean MVVM UI                | SwiftUI, iOS |
+| [PlaceIT](...) | Save favorite places and plan visits                     | SwiftUI, iOS |
+| [FormaViva](...) | BMI calculator with modern SwiftUI UI                   | SwiftUI, iOS |
+| [SoundMatch](...) | Spotify clone exploring audio features                 | Kotlin, Android |
+
 
 ---
 
 ## 🎯 Career Goals
-
-- 💼 Work on real-world apps, learn from experienced teams, and grow fast
-- 🌍 Collaborate with developers from all over the world
+- Build and launch real-world mobile apps
+- Collaborate with experienced global teams
+- Continuously learn modern iOS & Android technologies
 
 ---
 
