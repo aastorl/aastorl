@@ -33,7 +33,7 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 
 | Name        | Description                                                | Tech & Platform |
 |-------------|------------------------------------------------------------|----------------|
-| [MosquitOFF](https://apps.apple.com/ar/app/mosquitoff/id6751351628) | App published on the App Store that calculates real-time mosquito risk in Rosario, Argentina. | Swift, SwiftUI, iOS |
+| [MosquitoRisk](https://apps.apple.com/ar/app/mosquitoff/id6751351628) | App published on the App Store that calculates real-time mosquito risk in Rosario, Argentina. | Swift, SwiftUI, iOS |
 | [HeroIQ](...) | Superhero info browser with clean MVVM UI                | SwiftUI, iOS |
 | [PlaceIT](...) | Save favorite places and plan visits                     | SwiftUI, iOS |
 | [FormaViva](...) | BMI calculator with modern SwiftUI UI                   | SwiftUI, iOS |
