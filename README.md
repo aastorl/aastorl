@@ -35,7 +35,7 @@ I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on buildin
 |-------------|------------------------------------------------------------|----------------|
 | [MosquitoRisk](https://apps.apple.com/ar/app/mosquitoff/id6751351628) | App published on the App Store that calculates real-time mosquito risk in Rosario, Argentina. | Swift, SwiftUI, MapKit|
 | [Randomitas](https://apps.apple.com/ar/app/randomitas/id6761005880) | Hierarchical Decision Engine                | SwiftUI, Swift, Core Data |
-| [SoundMatch]((https://github.com/aastorl/SoundMatch)) | Spotify Clone             | Kotlin, Jetpack Compose |
+| [SoundMatch](https://github.com/aastorl/SoundMatch) | Spotify Clone             | Kotlin, Jetpack Compose |
 
 
 ---
