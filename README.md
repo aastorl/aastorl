@@ -6,7 +6,7 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?logo=apple&logoColor=white&style=flat-square)
 
 
-I'm a **Mobile Developer** from Argentina 🇦🇷, currently focused on building clean, modern, and user-friendly apps for both **iOS** and **Android** platforms.
+I'm a **Mobile Developer** from Argentina 🇦🇷, currently based on Spain 🇪🇸, focused on building clean, modern, and user-friendly apps for both **iOS** and **Android** platforms.
 
 ---
 
